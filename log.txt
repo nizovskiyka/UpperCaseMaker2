@@ -1,0 +1,3 @@
+x = abcd
+x = ABCD
+[main] WARN UpperCaseMaker - The variable x has been forced to upper case
